@@ -5,5 +5,5 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
-	<s:Label text="Hello World, POC!"/>
+	<s:Label text="Hello World, POC!" top="30" left="30"/>
 </s:Application>
